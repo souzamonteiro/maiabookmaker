@@ -1,2 +1,2 @@
-# maiabookmaker
-MaiaScript ebook editor
+# MaiaBookMaker
+MaiaScript ebook editor.
